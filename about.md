@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+categories: okjaemin
+img: okjaemin-profile.jpg
 ---
 
 
