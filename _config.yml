@@ -9,7 +9,7 @@
 title: Webjeda cards
 email: okjaemin@naver.com
 description: > # this means to ignore newlines until "baseurl:"
-  Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
+  okjaemin's dev log based on github with his father.
   
   
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -23,8 +23,8 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 built-by: webjeda
 
 copyright:
-   name: webjeda
-   link: 'http://blog.webjeda.com'
+   name: okjaemin
+   link: 'http://okjaemin.github.io'
 
 # Build settings
 markdown: kramdown
