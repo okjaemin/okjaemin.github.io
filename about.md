@@ -9,7 +9,7 @@ img: okjaemin-profile.jpg
 
 
 Hi. I'm a middle school student **learning python with my dad.**
-The thing that I wanna do with python is that attending a good company when I become an adult.
+The thing that I wanna do with python is to join a good company when I become an adult.
 
 **Does the theme deserve a star?**
 
