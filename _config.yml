@@ -40,11 +40,8 @@ disqus: yes
 disqus-shortname: webjeda-demo
 
 #social
-facebook: http://facebook.com/
-quora: http://quora.com/
-twitter: http://twitter.com/
-github: http://github.com/
-email: your@email.com
+github: http://github.com/okjaemin
+email: okjaemin@naver.com
 
 #facebook like box
 fb-like-box: yes
